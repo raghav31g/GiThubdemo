@@ -14,3 +14,6 @@ hii
 git checkout second branch
 
 git checkout third-branch
+
+-> git remote add origin URL
+=> connect local repository to remote repository
