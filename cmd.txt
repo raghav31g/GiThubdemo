@@ -4,3 +4,7 @@ Git basic commands
 -> git init
 -> git add // file name-cmd.txt
 hi 
+-> git commit -m "new file"
+
+git config --global user.email "youremail@gmail.com"
+Cgit config --global user.name "your name"
