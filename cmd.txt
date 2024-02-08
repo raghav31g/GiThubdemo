@@ -11,3 +11,6 @@ Cgit config --global user.name "your name"
 
 hi
 hii
+git checkout second branch
+
+git checkout third-branch
