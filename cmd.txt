@@ -1,0 +1,6 @@
+Git basic commands
+
+-> git status
+-> git init
+-> git add // file name-cmd.txt
+hi 
